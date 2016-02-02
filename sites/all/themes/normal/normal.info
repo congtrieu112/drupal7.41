@@ -1,0 +1,8 @@
+name = Normail
+description = A template custom
+version = VERSION
+core = 7.x
+
+regions[header] = Header
+regions[content] = Content
+regions[footer] = Footer
